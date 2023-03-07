@@ -1,0 +1,32 @@
+h1 {
+  color: #adb1a5;
+  font-size: 60px;
+  text-align: center;
+  font-family: "Bebas+Neue", sans-serif;
+  text-transform: uppercase;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+button {
+  border-radius: 50px;
+  font-size:25px;
+  background-color: #adb1a5;
+  color:rgb(37, 19, 19);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+button:hover {
+  text-decoration: none; 
+  color: #fff; 
+  background: #e24486;
+}
+#click {
+  font-size:25px;
+  text-align: center;
+}
